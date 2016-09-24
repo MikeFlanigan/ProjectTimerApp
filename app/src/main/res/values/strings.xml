@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FlightTime</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="pauseButtonLabel">Stop</string>
+    <string name="startButtonLabel">Start</string>
+    <string name="ResetButtonLabel">Reset</string>
+    <color name="Cyan">#00ffff</color>
+</resources>
